@@ -1,4 +1,4 @@
 # huh-
 wow
-[google.com](url)
-[bing.com](url)
+[google](https://google.com)
+[bing](https://bing.com)
