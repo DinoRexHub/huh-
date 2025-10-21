@@ -6,6 +6,6 @@ wow
 [discord](https://discord.com/)
 [outlook](https://outlook.com/)
 [gmail](https://mail.google.com/)
-[url openver](urlopener.net)
+[url openver](https://urlopener.net/)
 
 
