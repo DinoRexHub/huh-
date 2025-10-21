@@ -6,6 +6,6 @@ wow
 [discord](https://discord.com/)
 [outlook](https://outlook.com/)
 [gmail](https://mail.google.com/)
-[url openver](https://www.webfx.com/tools/url-opener/)
+[url openver](urlopener.net)
 
 
