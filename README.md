@@ -7,4 +7,4 @@ wow
 [outlook](https://outlook.com/)
 [gmail](https://mail.google.com/)
 [url openver](https://urlopener.net/)
-[games (gtube)]([https://urlopener.net/](https://gtube.autos/)
+[gtube games](https://gtube.autos/)
